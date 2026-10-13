@@ -1,1 +1,1 @@
-# Static_Analiser_Project
+# VMA Studio
